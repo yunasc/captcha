@@ -1,0 +1,14 @@
+body {
+	font-family: "tahoma";
+	font-size: 8pt;
+	color: #306A82;
+	margin-top: 10px;
+	margin-bottom: 0px;
+}
+
+input, select, textarea {
+       margin-top: 3px;
+       margin-bottom: 0px;
+       font-family: "tahoma";
+       font-size: 8pt;
+}
